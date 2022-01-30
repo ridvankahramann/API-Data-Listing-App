@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">customlistviewapp</string>
+    <string name="app_name" translatable="false">customlistviewapp</string>
+    <string name="geri" translatable="false">Geri</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
 </resources>
